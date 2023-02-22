@@ -1,0 +1,2 @@
+# ImageMixer
+Application overlays two images with chosen by user percentage (similarly to Photoshop or Gimp layers). User has option to choose which library will be used. Both libraries perform same action witch is computing output pixel value based on input data from user and were written in either C++ or Assembly with usage of vector registers. User can also choose number of threads that application will be run on. Time it takes to calculate the image is measured and displayed every time the mixing action is performed.
